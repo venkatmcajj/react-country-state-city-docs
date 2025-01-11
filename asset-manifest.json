@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-country-state-city-docs/static/css/main.736a90fe.css",
+    "main.js": "/react-country-state-city-docs/static/js/main.028541ea.js",
+    "static/media/TwemojiMozilla.ttf": "/react-country-state-city-docs/static/media/TwemojiMozilla.c993f93bd40b647e0b38.ttf",
+    "index.html": "/react-country-state-city-docs/index.html",
+    "main.736a90fe.css.map": "/react-country-state-city-docs/static/css/main.736a90fe.css.map",
+    "main.028541ea.js.map": "/react-country-state-city-docs/static/js/main.028541ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736a90fe.css",
+    "static/js/main.028541ea.js"
+  ]
+}
