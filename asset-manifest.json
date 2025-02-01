@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-country-state-city-docs/static/css/main.bdbfa126.css",
-    "main.js": "/react-country-state-city-docs/static/js/main.521364e2.js",
+    "main.js": "/react-country-state-city-docs/static/js/main.e7c80d22.js",
     "static/media/TwemojiMozilla.ttf": "/react-country-state-city-docs/static/media/TwemojiMozilla.c993f93bd40b647e0b38.ttf",
     "index.html": "/react-country-state-city-docs/index.html",
     "main.bdbfa126.css.map": "/react-country-state-city-docs/static/css/main.bdbfa126.css.map",
-    "main.521364e2.js.map": "/react-country-state-city-docs/static/js/main.521364e2.js.map"
+    "main.e7c80d22.js.map": "/react-country-state-city-docs/static/js/main.e7c80d22.js.map"
   },
   "entrypoints": [
     "static/css/main.bdbfa126.css",
-    "static/js/main.521364e2.js"
+    "static/js/main.e7c80d22.js"
   ]
 }
