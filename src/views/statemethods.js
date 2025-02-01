@@ -42,6 +42,27 @@ function Statemethods() {
         "Refers to the official abbreviation or code assigned to a state within a country",
       example: "BDS",
     },
+    {
+      title: "latitude",
+      type: "string",
+      description:
+        "Refers to the geographical coordinate that specifies the north-south position of a point on the Earth's surface",
+      example: "33.00000000",
+    },
+    {
+      title: "longitude",
+      type: "string",
+      description:
+        "Refers to the geographical coordinate that specifies the east-west position of a point on the Earth's surface.",
+      example: "65.00000000",
+    },
+    {
+      title: "hasCities",
+      type: "boolean",
+      description:
+        "Indicates whether the state contains any cities.",
+      example: true,
+    }
   ];
   const [country, setCountry] = useState(null);
   const [currentState, setcurrentState] = useState(null);

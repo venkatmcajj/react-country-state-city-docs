@@ -34,6 +34,13 @@ function RegionMethods() {
       type: "string",
       description: "Refers to the full name of the region",
       example: "Asia",
+    },    
+    {
+      title: "hasCountries",
+      type: "boolean",
+      description:
+        "Indicates whether the region contains any countries.",
+      example: true,
     }
   ];
   const [region, setRegion] = useState(null);

@@ -140,6 +140,13 @@ function Countrymethods() {
         "Refers to the geographical coordinate that specifies the east-west position of a point on the Earth's surface.",
       example: "65.00000000",
     },
+    {
+      title: "hasStates",
+      type: "boolean",
+      description:
+        "Indicates whether the country contains any states.",
+      example: true,
+    }
   ];
   const [country, setCountry] = useState(null);
   const [countriesList, setCountriesList] = useState([]);
